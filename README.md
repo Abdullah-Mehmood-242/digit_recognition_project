@@ -42,10 +42,10 @@ jupyter notebook
 
 ## Screenshots
 
-![Screenshot 2025-05-16 164641](https://github.com/user-attachments/assets/d8b19d5c-941a-4d99-949b-671a5cafa24c)
 ![Screenshot 2025-05-16 164600](https://github.com/user-attachments/assets/f95db667-68f2-4d19-bf82-7bd3b2046e77)
 ![Screenshot 2025-05-16 164544](https://github.com/user-attachments/assets/201b9ecf-5ba9-424c-8932-6d54206411be)
 ![Screenshot 2025-05-16 164455](https://github.com/user-attachments/assets/09395b0e-60cf-4347-8fb5-df01f7de8a76)
+![Screenshot 2025-05-16 164641](https://github.com/user-attachments/assets/d8b19d5c-941a-4d99-949b-671a5cafa24c)
 
 
 ## Project Structure
