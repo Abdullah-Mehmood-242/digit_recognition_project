@@ -62,3 +62,7 @@ digit_recognition_project/
 ## License
 
 This project is for educational purposes.
+
+
+## 🤖 Author
+This project was developed by Abdullah Mehmood as part of a Data Mining course.
